@@ -1,0 +1,10 @@
+0-2*.csv
+.vscode
+test_*.csv
+*.log
+*.code-workspace
+0-2*.pkl
+options*.pkl
+*.db
+
+
