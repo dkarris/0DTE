@@ -7,6 +7,8 @@ test_*.csv
 options*.pkl
 *.db
 .devcontainer
+options_venv/
+*.xlsx
 
 
 
